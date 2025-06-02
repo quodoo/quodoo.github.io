@@ -95,8 +95,8 @@ It felt like a full-circle moment — not as a beginner, but as a leader and con
 |--------------|-------------------------------------------------------------------------|
 | 📇 LinkedIn  | [LinkedIn Profile](https://www.linkedin.com/in/quang-tri%CC%A3nh-v%C4%83n-7012b6115/) |
 | 🧑‍💻 GitHub   | [GitHub Profile](https://github.com/quodoo)                                          |
-| 📧 Email     | [trinhvanquangf1@gmail.com](mailto:trinhvanquangf1@gmail.com)                         |
-| 📱 Phone     | [+84 972 421 977](tel:+84972421977)                                                    |
+| 📧 Email     | [Email me](mailto:trinhvanquangf1@gmail.com)                         |
+| 📱 Phone     | [Call me](tel:+84972421977)                                                    |
 
 ---
 
