@@ -94,7 +94,7 @@ It felt like a full-circle moment — not as a beginner, but as a leader and con
 | Platform     | Link                            |
 |--------------|---------------------------------|
 | LinkedIn     | [LinkedIn Profile](https://www.linkedin.com/in/quang-tri%CC%A3nh-v%C4%83n-7012b6115/)   |
-| GitHub       | [Github profile](https://quodoo.github.io)    |
+| GitHub       | [Github profile](https://github.com/quodoo)    |
 | Email        | trinhvanquangf1@gmail.com            |
 
 ---
