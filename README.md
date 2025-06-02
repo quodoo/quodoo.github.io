@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Quang (찐 반 광)
+# 👋 Welcome to My GitHub Profile!
+
+Hi there! I'm **Quang** (찐 반 광) — thank you for stopping by!  
+I'm happy you're here, and I'd love to share a bit about myself and my journey as a developer.
 
 > “Life doesn’t always go as planned — but every detour can lead to something greater.”
 
